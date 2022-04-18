@@ -1,0 +1,12 @@
+vagrant and virtual box => for developing server 
+vagrant up => to make the server
+vagrant ssh => to run command on it 
+
+The workflow is 
+create a model -> migrate terminal -> register in admin -> serializer for the model -> create the view -> add the view to the urls
+
+
+
+
+
+
